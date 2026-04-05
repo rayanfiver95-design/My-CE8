@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Blog</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav class="navbar">
+  <div class="logo">My CE Journey</div>
+  <div>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="blog.html">Blog</a>
+    <a href="contact.html">Contact</a>
+  </div>
+</nav>
+
+<section class="blog-container">
+
+  <h1>Blog Posts</h1>
+
+  <div class="blog-card">
+    <h2>My First Week in CE</h2>
+    <p>I started my journey and learned HTML basics...</p>
+    <a href="posts/first-post.html">Read More →</a>
+  </div>
+
+  <div class="blog-card">
+    <h2>Learning Web Development</h2>
+    <p>This week I explored CSS and design improvements...</p>
+    <a href="posts/second-post.html">Read More →</a>
+  </div>
+
+</section>
+
+<footer>
+  <p>© 2026 My CE Journey</p>
+</footer>
+
+</body>
+</html>
