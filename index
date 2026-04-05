@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My CE Journey</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav class="navbar">
+  <div class="logo">My CE Journey</div>
+  <div>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="blog.html">Blog</a>
+    <a href="contact.html">Contact</a>
+  </div>
+</nav>
+
+<header class="hero">
+  <h1>Welcome to My CE Journey</h1>
+  <p>Sharing my learning, experiences, and growth every week.</p>
+  <a href="blog.html" class="btn">Read Blog</a>
+</header>
+
+<section class="intro">
+  <h2>About This Blog</h2>
+  <p>This blog documents my journey in CE, web development, and personal growth. Stay tuned for weekly posts!</p>
+</section>
+
+<footer>
+  <p>© 2026 My CE Journey</p>
+</footer>
+
+</body>
+</html>
