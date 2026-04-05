@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Week in CE</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+
+<nav class="navbar">
+  <div class="logo">My CE Journey</div>
+  <div>
+    <a href="../index.html">Home</a>
+    <a href="../about.html">About</a>
+    <a href="../blog.html">Blog</a>
+    <a href="../contact.html">Contact</a>
+  </div>
+</nav>
+
+<article class="post-page">
+  <h1>My First Week in CE</h1>
+  <p class="date">April 2026</p>
+
+  <p>This week I started my CE journey. I learned the basics of HTML and how websites are structured.</p>
+
+  <p>It was exciting to create my first webpage and host it on GitHub.</p>
+
+  <a href="../blog.html">⬅ Back to Blog</a>
+</article>
+
+</body>
+</html>
