@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Learning Web Development</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+
+<nav class="navbar">
+  <div class="logo">My CE Journey</div>
+  <div>
+    <a href="../index.html">Home</a>
+    <a href="../about.html">About</a>
+    <a href="../blog.html">Blog</a>
+    <a href="../contact.html">Contact</a>
+  </div>
+</nav>
+
+<article class="post-page">
+  <h1>Learning Web Development</h1>
+  <p class="date">April 2026</p>
+
+  <p>This week I improved my CSS skills and made my blog look more modern.</p>
+
+  <p>I also learned about layouts and responsive design.</p>
+
+  <a href="../blog.html">⬅ Back to Blog</a>
+</article>
+
+</body>
+</html>
